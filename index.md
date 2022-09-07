@@ -3,7 +3,7 @@ Python Developer, 19 y.o
 
 ##  Contacts
 **Email:** wiktor.moldowan@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Phone number:** +48570424488
+**Phone number:** +48570424488 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **GitHub:** [vi-mcw196](https://github.com/vi-mcw196)
 
 ## About me
