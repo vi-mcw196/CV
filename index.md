@@ -2,13 +2,12 @@
 Python Developer, 19 y.o
 
 ##  Contacts
-**Email:** wiktor.moldowan@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Phone number:** +48570424488 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Email:** wiktor.moldowan@gmail.com
+**Phone number:** +48570424488
 **GitHub:** [vi-mcw196](https://github.com/vi-mcw196)
 
 ## About me
 
-- I am studying Applied Computer Science at Wroclaw University of Science and Technology
 - I am a fast learner with problem-solving skills.
 
 ## Skills
@@ -48,9 +47,7 @@ Grade: 4.9
 - Hitches in radio simulation and operation area
 - Creating and reviewing requirements for functional, design and interface specifications based on system and HW specification
 - Programming using Python
-- Testing using pytest
 - Experience with version control systems (GIT), Agile, Scrum
-- Virtualization, hardware and network troubleshooting
 
 ### EPAM
 ->_Kyiv, Ukraine_
@@ -58,7 +55,6 @@ Grade: 4.9
 **Web Application Tester (Internship)**
 ->_June 2020 to September 2020_
 
-- Dynamic Web Application [CMS Website]
 - Security Testing
 - Interface testing
 - Functionality Testing
@@ -71,7 +67,6 @@ Grade: 4.9
 This web application creates an online catalog for a small local library, where users can browse available books and manage their accounts.
 
 - Django
-- TDD
 - Testing
 - REST API
 
