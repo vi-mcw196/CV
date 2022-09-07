@@ -31,7 +31,7 @@ Python Developer, 19 y.o
 
 ### Wrocław University of Science and Technology
 ->_2020 - 2024_
-**Bachelor of Applied Computer Science**,  _Wroclaw, Poland_
+**Bachelor of Applied Computer Science**,  _Wroclaw, Poland_,
 Grade: 4.9
 
 ## Work Experience
