@@ -1,91 +1,78 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# **Artur Boyun**
+Python Developer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+##  Contacts
+**Email:** arturboyun@gmail.com
+**Telegram:** [@arturboyun](https://t.me/arturboyun)
+**Phone number:** +380 99 771 41 65
+**GitHub:** [arturboyun](https://github.com/arturboyun)
 
+## Skills
 
-## Currently
+**Technical:** `Python` `Django` `FastAPI` `Flask` `aiogram` `SQLAlchemy` `TortoiseORM` `Node.js` `TypeScript` `npm` `yarn` `Koa.js` `Nest.js` `Adonis.js` `Vue.js` `React.js` `TypeORM` `Redis` `Git` `Docker` `Docker-Compose` `Nginx` `Traefik` `CI/CD` `HTML+CSS`
 
-Standing on the shoulders of giants
+**Databases:** `PostgreSQL` `MongoDB` `MySQL`
 
-### Specialized in
+**Operating Systems:** `Ubuntu` `Mac` `Windows`
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Management:** `Kanban` `Scrum` `Trello` `Jira`
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Languages
+- English - Pre-Intermediate
+- Russian - Native
+- Ukraine - Native
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Dniprovsk State Technical University
+->_2019 - 2022_
+**Bachelor of Software Engineering**,  _Dnepr, Kamyanske_
+Site: [DSTU.DP.UA](https://www.dstu.dp.ua/)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Kamyansky state power engineering College
+->_2015 - 2019_
+**Geodesy and land management**,  _Dnepr, Kamyanske_
+Site: [DNDZDET.COM](https://www.dndzdet.com/)
 
-- Sizar
+## Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Idealogic
+->_Zaporozhye_
 
-- Fellow
+**Python Backend Developer**
+->_Nov 2021 to Present_
 
+- Maintain and improve code in existing projects.
+- Writing integrations for different services.
+- Developing backend for mobile app with stack Django and DRF.
+- Developing backend for IDO, IVO launchpad platform using Adonis.js
+- Participated in the development of microservices using GRPS and Nest.js
+- Developed a bot for trading on the internal exchange.
 
+### Labyrinth
+->_Dnepr, Kamyanske_
 
-## Awards
+**Python Full-Stack Developer**
+->_Feb 2021 to Nov 2021_
 
-`2012`
-President, *Royal Society*, London, UK
+- Maintain and improve existing code.
+- Adding integrations with various services such as Slack, MS Teams, Splunk, IBM
+Qradar SIEM, Telegram, SMTP etc.
+- Writing tests for existing code.
+- Writing additional API and functionality.
+- Front-end development support.
+- Help in HTML coding, and adding new functionality to the frontend.
+- Worked in a large project with stack Flask as API and React as UI with a team.
 
-Associate, *French Academy of Science*, Paris, France
+### Freelance
+->_Dnepr, Kamyanske_
 
+**Python Full-Stack Developer**
+->_Jun 2018 to Feb 2021_
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Creating web applications for businesses.
+- Bot creation for social networks such as Telegram, Facebook, and Instagram.
+- Writing scripts for parsing and scraping data from other sites.
+- Writing individual software to order.
+- Writing Rest API using the FastAPI, Flask, Django.
+- Writing Frontend applications on Vue, React in conjunction with the API.
