@@ -1,5 +1,5 @@
 # **Viktor Moldovan**
-Python Developer, 19 y.o
+Python Developer, 18 y.o
 
 ##  Contacts
 **Email:** wiktor.moldowan@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
