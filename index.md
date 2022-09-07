@@ -55,7 +55,7 @@ Grade: 4.9
 ### EPAM
 ->_Kyiv, Ukraine_
 
-**Web Application Tester**
+**Web Application Tester (Internship)**
 ->_June 2020 to September 2020_
 
 - Dynamic Web Application [CMS Website]
@@ -64,3 +64,26 @@ Grade: 4.9
 - Functionality Testing
 
 ## PROJECTS
+
+**"Local Library" website written in Django**
+->_Mar 2022 - May 2022_
+
+This web application creates an online catalog for a small local library, where users can browse available books and manage their accounts.
+
+- Django
+- TDD
+- Testing
+- REST API
+
+Link to the project: [locallib-django](https://github.com/vi-mcw196/library-django)
+
+**"Solving the Max3Set Problem Using the Genetic Algorithm**
+->_Sep 2021 - Jan 2022_
+
+Genetic algorithm with mutations and selection of the two best parents was used to solve this problem
+
+- C++
+- TDD
+
+Link to the project: [max3sat-problem-cpp](https://github.com/vi-mcw196/max3set-genetic-algorithm-cpp)
+
