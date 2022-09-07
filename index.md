@@ -6,10 +6,6 @@ Python Developer, 19 y.o
 **Phone number:** +48570424488
 **GitHub:** [vi-mcw196](https://github.com/vi-mcw196)
 
-## About me
-
-- I am a fast learner with problem-solving skills.
-
 ## Skills
 
 **Technical:** `Python` `C++` `Numpy` `Django` `FastAPI` `Redis` `Git` `Docker` `CI/CD` `HTML+CSS` 
@@ -43,9 +39,7 @@ Grade: 4.9
 ->_June 2022 to Present_
 
 - Software architecture
-- Implementation, analyzing and solving complex engineering problems 
-- Hitches in radio simulation and operation area
-- Creating and reviewing requirements for functional, design and interface specifications based on system and HW specification
+- Implementation, analyzing and solving complex engineering problems
 - Programming using Python
 - Experience with version control systems (GIT), Agile, Scrum
 
