@@ -1,38 +1,32 @@
-# **Artur Boyun**
-Python Developer
+# **Viktor Moldovan**
+Python Developer, 19 y.o
 
 ##  Contacts
-**Email:** arturboyun@gmail.com
-**Telegram:** [@arturboyun](https://t.me/arturboyun)
-**Phone number:** +380 99 771 41 65
-**GitHub:** [arturboyun](https://github.com/arturboyun)
+**Email:** wiktor.moldowan@gmail.com
+**Phone number:** +48570424488
+**GitHub:** [vi-mcw196](https://github.com/vi-mcw196)
 
 ## Skills
 
-**Technical:** `Python` `Django` `FastAPI` `Flask` `aiogram` `SQLAlchemy` `TortoiseORM` `Node.js` `TypeScript` `npm` `yarn` `Koa.js` `Nest.js` `Adonis.js` `Vue.js` `React.js` `TypeORM` `Redis` `Git` `Docker` `Docker-Compose` `Nginx` `Traefik` `CI/CD` `HTML+CSS`
+**Technical:** `Python` `Django` `FastAPI` `Redis` `Git` `Docker` `CI/CD` `HTML+CSS`
 
-**Databases:** `PostgreSQL` `MongoDB` `MySQL`
+**Databases:** `MySQL`
 
 **Operating Systems:** `Ubuntu` `Mac` `Windows`
 
 **Management:** `Kanban` `Scrum` `Trello` `Jira`
 
 ## Languages
-- English - Pre-Intermediate
-- Russian - Native
+- English - B2
+- Polish  - B2-C1
 - Ukraine - Native
 
 ## Education
 
-### Dniprovsk State Technical University
-->_2019 - 2022_
-**Bachelor of Software Engineering**,  _Dnepr, Kamyanske_
-Site: [DSTU.DP.UA](https://www.dstu.dp.ua/)
-
-### Kamyansky state power engineering College
-->_2015 - 2019_
-**Geodesy and land management**,  _Dnepr, Kamyanske_
-Site: [DNDZDET.COM](https://www.dndzdet.com/)
+### Wrocław University of Science and Technology
+->_2020 - 2024_
+**Bachelor of Applied Computer Science**,  _Wroclaw, Poland_
+Site: [pwr.edu.pl](https://pwr.edu.pl/en/)
 
 ## Work Experience
 
